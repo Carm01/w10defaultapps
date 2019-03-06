@@ -1,4 +1,4 @@
-# w10defaultapps
+# Windows 10 Default app associations
 Windows 10 default app association
 
 
